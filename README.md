@@ -1,11 +1,11 @@
 # Rock_paper_Scissor
 Rock, Paper, Scissors is a classic hand game played between two people. Each player simultaneously forms one of three shapes with an outstretched hand:
 
-✊ Rock
+ Rock
 
-✋ Paper
+ Paper
 
-✌️ Scissors
+ Scissors
 
 Rules:
 Rock crushes Scissors → Rock wins
